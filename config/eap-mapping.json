@@ -1,0 +1,29 @@
+[
+{
+    "name": "persoon",
+    "type": "voc",
+    "eap": "OSLO-Vocabularium.eap",
+    "diagram": "OSLO-Persoon",
+    "template": "persoon-voc.j2",
+	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Persoon",
+    "config" : "config/config-voc.json",
+    "site": "site-skeleton"
+  },
+  {
+    "name": "persoon-basis",
+    "type": "ap",
+    "eap": "OSLO-Persoon-Basis-AP.eap",
+    "diagram": "OSLO-Persoon-Basis",
+    "template": "persoon-basis-ap.j2",
+    "title": "Persoon Basis";
+	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Persoon",
+    "config" : "config/config-ap.json",
+    "site": "site-skeleton"
+  }
+]
