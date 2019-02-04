@@ -18,7 +18,7 @@
     "eap": "OSLO-Persoon-Basis-AP.eap",
     "diagram": "OSLO-Persoon-Basis",
     "template": "persoon-basis-ap.j2",
-    "title": "Persoon Basis";
+    "title": "Persoon Basis",
 	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "12-12-2018",
     "contributors-file": "stakeholders.csv",
