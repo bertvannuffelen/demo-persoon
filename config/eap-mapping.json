@@ -2,7 +2,7 @@
 {
     "name": "persoon",
     "type": "voc",
-    "eap": "OSLO-Vocabularium.eap",
+    "eap": "OSLO-Persoon-VOC.eap",
     "diagram": "OSLO-Persoon",
     "template": "persoon-voc.j2",
 	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
