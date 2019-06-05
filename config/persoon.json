@@ -1,16 +1,18 @@
-{
-  "name": "persoon",
-  "type": "voc",
-  "eap": "OSLO-Persoon-VOC.eap",
-  "diagram": "OSLO-Persoon",
-  "template": "persoon-voc.j2",
-  "title": "Persoon",
-  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-  "publication-date": "03-07-2018",
-  "contributors-file": "stakeholders.csv",
-  "contributors-column": "Persoon",
-  "config": "config/config-voc.json",
-  "site": "site-skeleton",
-  "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
-}
+[
+  {
+    "name": "persoon",
+    "type": "voc",
+    "eap": "OSLO-Persoon-VOC.eap",
+    "diagram": "OSLO-Persoon",
+    "template": "persoon-voc.j2",
+    "title": "Persoon",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "03-07-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Persoon",
+    "config": "config/config-voc.json",
+    "site": "site-skeleton",
+    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
+  }
+]
